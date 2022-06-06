@@ -23,7 +23,7 @@ from telegram.utils.helpers import mention_html
 
 def check_user(user_id: int, bot: Bot, chat: Chat) -> Optional[str]:
     if not user_id:
-        reply = "You don't seem to be referring to a user or the ID specified is incorrect.."
+        reply = "Dasar admin goblok anda sepertinya tidak merujuk ke pengguna atau ID yang ditentukan salah.."
         return reply
 
     try:
@@ -89,7 +89,7 @@ def mute(update: Update, context: CallbackContext) -> str:
         return log
 
     else:
-        message.reply_text("This user is already muted!")
+        message.reply_text("bajingan ini sudah dibisukan!")
 
     return ""
 
@@ -218,7 +218,7 @@ def temp_mute(update: Update, context: CallbackContext) -> str:
             )
             return log
         else:
-            message.reply_text("This user is already muted.")
+            message.reply_text("bajingan ini sudah dibisukan.")
 
     except BadRequest as excp:
         if excp.message == "Reply message not found":
