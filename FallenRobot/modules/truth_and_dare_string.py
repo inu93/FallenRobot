@@ -1,21 +1,38 @@
 TRUTH = (
-    "Have you ghosted someone?" "Have you ever walked in on your parents doing 'it'?",
-    "Who was the last person you liked the most? Why?",
-    "Have you ever been suspended from school?",
-    "If you had to choose between going naked or having your thoughts appear in thought bubbles above your head for everyone to read, which would you choose?",
-    "What’s the one thing you’re afraid to lose?",
-    "Do you like someone as of the moment?",
-    "One thing about your best friend you are jealous of?",
-    "Would you cheat on your boyfriend for a rich guy?",
-    "What is your biggest turn on?",
-    "When’s the last time you lied to your parents and why?",
-    "Describe your ideal partner.",
-    "Do you love @anonymous_was_bot ?",
-    "What’s the scariest thing you’ve ever done?",
-    "Have you ever picked your nose and eaten it?",
-    "When’s the last time you lied to your parents and why?",
-    "Have you ever lied about your age to participate in a contest?",
-    "Have you ever been caught checking someone out?",
+    "Apakah kamu pernah ngentod?" "Pernahkah Anda mencuri?",
+    "Siapa orang terakhir yang paling kamu sukai? Mengapa?",
+    "Apakah Anda pernah diskors dari sekolah?",
+    "Kehilangan orang tua apa pacar?",
+    "Apa satu hal yang kamu takut kehilangan?",
+    "Apakah kamu menyukai seseorang saat ini??",
+    "Satu hal tentang sahabatmu yang membuatmu iri?",
+    "Apakah Anda akan menipu pacar Anda untuk pria kaya?",
+    "Apa giliran terbesarmu?",
+    "Kapan terakhir kali kamu berbohong kepada orang tuamu dan alasannya?",
+    "Deskripsikan pasangan ideal Anda.",
+    "Sudahkah Anda mengikuti ig @ebnu_am? Jika belum follow dong kak, yang cakep difollback",
+    "Apa hal paling menakutkan yang pernah kamu lakukan?",
+    "Pernahkah Anda mengupil dan memakannya?",
+    "Kapan terakhir kali kamu berbohong kepada orang tuamu dan alasannya?",
+    "Pernahkah Anda berbohong tentang usia Anda untuk berpartisipasi dalam kontes??",
+    "Pernahkah Anda ketahuan sedang memeriksa seseorang?",
+    "Lagi sange gak?",
+    "Kalo sange ngapain?",
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 )
 
 DARE = (
