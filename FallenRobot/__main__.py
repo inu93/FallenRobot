@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hallo,\n Saya adalah asaboo robot* [!](https://telegra.ph/file/35b87c2ed7f682d1539be.jpg)\n\n *saya adalah bot manajemen grup yang paling kuat.\n  saya memiliki fitur luar biasa dan tidak ada yang bisa mengalahkan saya hahaha\n untuk mendapatkan informasi tentang perintah saya, klik tombol perintah atau ketik*​ /help
+*Hallo,\n Saya adalah asaboo robot* [!](https://telegra.ph/file/1ee6246bbd6665589c96f.jpg)\n\n *saya adalah bot manajemen grup yang paling kuat.\n  saya memiliki fitur luar biasa dan tidak ada yang bisa mengalahkan saya hahaha\n untuk mendapatkan informasi tentang perintah saya, klik tombol perintah atau ketik*​ /help
 """
 
 buttons = [
@@ -104,7 +104,7 @@ buttons = [
     ],
 ]
 
-FallenRobot_IMG = "https://telegra.ph/file/35b87c2ed7f682d1539be.jpg"
+FallenRobot_IMG = "https://telegra.ph/file/1ee6246bbd6665589c96f.jpg"
 
 HELP_STRINGS = f"""
 Asaboo robot *Exclusive features*\n*» checkout semua perintah*\n*» Semua perintah saya dapat digunakan dengan / atau !*\n*» Jika Anda mendapat masalah atau bug, perintah apa pun, harap laporkan ke @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /start : *Memulai saya.*\n➲ /donate : *Memberi dukungan.*\n➲ /help  : *bagian perintah yang tersedia.*\n*  ‣ di PM : akan mengirimkan bantuan untuk semua modul dukungan.*\n*  ‣ di group : akan mengarahkan Anda ke pm, dengan semua modul bantuan itu.*"""
