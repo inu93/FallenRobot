@@ -18,21 +18,6 @@ TRUTH = (
     "Pernahkah Anda ketahuan sedang memeriksa seseorang?",
     "Lagi sange gak?",
     "Kalo sange ngapain?",
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
 )
 
 DARE = (
