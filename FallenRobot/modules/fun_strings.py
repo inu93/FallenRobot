@@ -1,22 +1,22 @@
 RUN_STRINGS = (
-    "Now you see me, now you don't." "ε=ε=ε=ε=┌(;￣▽￣)┘",
-    "Get back here!",
+    "Lariii ada wibuuu." "ε=ε=ε=ε=┌(;￣▽￣)┘",
+    "Kembali kesini kontolllll!",
     "REEEEEEEEEEEEEEEEEE!!!!!!!",
-    "Look out for the wall!",
-    "Don't leave me alone with them!!",
-    "You've got company!",
-    "Chotto matte!",
-    "Yare yare daze",
+    "Lari yang jauh gausah kembali, lu gk penting!",
+    "Jangan tinggalkan aku sendirian!!",
+    "Run run run ada orgil!",
+    "Lariiiii ada orang gajelas!",
+    "Yare yare linglung",
     "*Naruto run activated*",
     "*Nezuko run activated*",
-    "Hey take responsibilty for what you just did!",
-    "May the odds be ever in your favour.",
-    "Run everyone, they just dropped a bomb 💣💣",
-    "And they disappeared forever, never to be seen again.",
-    "Legend has it, they're still running.",
+    "Hei bertanggung jawab atas apa yang baru saja kamu lakukan!",
+    "Semoga peluang selalu menguntungkan Anda.",
+    "Jalankan semua orang, mereka baru saja menjatuhkan bom 💣💣",
+    "Dan mereka menghilang selamanya, tidak pernah terlihat lagi.",
+    "Legenda mengatakan, mereka masih berlari.",
     "Hasta la vista, baby.",
-    "Ah, what a waste. I liked that one.",
-    "As The Doctor would say... RUN!",
+    "Ah, sia-sia. Saya suka yang itu.",
+    "Lariii aku mau diperkosa ah ah ah!",
 )
 
 GIFS = [
@@ -26,11 +26,11 @@ GIFS = [
 ]
 
 SLAP_FALLEN_TEMPLATES = (
-    "Slap me one more time and I'll mute you.",
-    "Stop slapping me. REEEEEEEEEEEEEE.",
+    "Tampar aku sekali lagi dan aku akan membungkammu.",
+    "Berhenti menamparku. Atau ku panggilkan @ebnudoang.",
     [
-        "I am muting you for a minute.",  # normal reply
-        "Stop slapping me just because I can't mute you. REEEEEEEEEE.",  # reply to admin
+        "Aku membungkammu sebentar.",  # normal reply
+        "Berhentilah menamparku hanya karena aku tidak bisa membungkammu. REEEEEEEEEE.",  # reply to admin
         "tmute",  # command
         "Shut up!",
         "Silence!",
