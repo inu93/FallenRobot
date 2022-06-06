@@ -150,8 +150,8 @@ def unmute(update: Update, context: CallbackContext) -> str:
             )
     else:
         message.reply_text(
-            "This user isn't even in the chat, unmuting them won't make them talk more than they "
-            "already do!"
+            "Pengguna ini bahkan tidak ada dalam obrolan, mengaktifkan mereka tidak akan membuat mereka berbicara lebih dari mereka "
+            "Bajingan udah di unmute, lain kali jan sok keras!"
         )
 
     return ""
