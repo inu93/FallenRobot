@@ -118,30 +118,30 @@ SLAP_TEMPLATES = (
     "{user1} ara ara's {user2}.",
     "{user1} ora ora's {user2}.",
     "{user1} muda muda's {user2}.",
-    "{user2} was turned into a Jojo reference!",
-    "{user1} hits {user2} with {item}.",
-    "Round 2!..Ready? .. FIGHT!!",
-    "WhoPixel will oof {user2} to infinity and beyond.",
-    "{user2} ate a bat and discovered a new disease.",
-    "{user1} folded {user2} into a paper plane",
-    "{user1} served {user2} some bat soup.",
-    "{user2} was sent to his home, the planet of the apes.",
-    "{user1} kicked {user2} out of a moving train.",
-    "{user2} just killed John Wick’s dog.",
-    "{user1} performed an Avada Kedavra spell on {user2}.",
-    "{user1} subjected {user2} to a fiery furnace.",
-    "Sakura Haruno just got more useful than {user2}",
-    "{user1} unplugged {user2}'s life support.",
-    "{user1} subscribed {user2}' to 5 years of bad internet.",
-    "You know what’s worse than Dad jokes? {user2}!",
-    "{user1} took all of {user2}'s cookies.",
+    "{user2} diubah menjadi referensi Jojo!",
+    "{user1} {hits} {user2} dengan {item}.",
+    "Putaran 2!..Siap? .. BERTARUNG!!",
+    "WhoPixel akan oof {user2} menuju tak terbatas dan melampauinya.",
+    "{user2} makan kelelawar dan menemukan penyakit baru.",
+    "{user1} dilipat {user2} menjadi pesawat kertas",
+    "{user1} melayani {user2} ah ah ah ahhh.",
+    "{user2} dikirim ke rumahnya, planet kera.",
+    "{user1} ditendang {user2} keluar dari kereta yang bergerak.",
+    "{user2} baru saja membunuh anjing John Wick.",
+    "{user1} melakukan mantra Avada Kedavra pada {user2}.",
+    "{user1} dikenakan {user2} ke tungku yang menyala-nyala.",
+    "Sakura Haruno menjadi lebih berguna daripada {user2}",
+    "{user1} dicabut {user2} bantuan hidup.",
+    "{user1} berlangganan {user2}' hingga 5 tahun vcs.",
+    "Anda tahu apa yang lebih buruk dari lelucon bapak pesbuk? {user2}!",
+    "{user1} mengambil semua kue {user2}.",
     "{user2} wa mou.......Shindeiru! - {user1}.",
-    "{user2} lost his race piece!",  # No game no life reference
-    "Shut up {user2}, you are just {user2}.",  # No game no life reference
-    "{user1} hits {user2} with Aka si anse!",  # No game no life reference
-    "@NeoTheKitty scratches {user2}",  # Pixels pet cat - @NeoTheKitty
-    "Majin buu ate {user2}",  # Dbz
-    "Goblin slayer slays {user2}",  # Goblin Slayer
+    "{user2} kehilangan bagian tubuhnya!", 
+    "Diam {user2}, kamu hanya {user2}.", 
+    "{user1} {hits} {user2} dengan Aka si anse!", 
+    " Gang bang {user2}", 
+    "Perkosa {user2} hingga hamil", 
+    "Pembunuh goblin membunuh {user2}",
 )
 
 PAT_TEMPLATES = (
