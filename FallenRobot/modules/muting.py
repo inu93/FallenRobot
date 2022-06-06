@@ -121,7 +121,7 @@ def unmute(update: Update, context: CallbackContext) -> str:
             and member.can_send_other_messages
             and member.can_add_web_page_previews
         ):
-            message.reply_text("This user already has the right to speak.")
+            message.reply_text("bajingan ini sudah memiliki hak untuk berbicara, lain kali jan sok keras")
         else:
             chat_permissions = ChatPermissions(
                 can_send_messages=True,
@@ -139,7 +139,7 @@ def unmute(update: Update, context: CallbackContext) -> str:
                 pass
             bot.sendMessage(
                 chat.id,
-                f"I shall allow <b>{html.escape(member.user.first_name)}</b> to text!",
+                f"saya akan mengizinkan bajingan ini <b>{html.escape(member.user.first_name)}</b> untuk mengirim pesan!",
                 parse_mode=ParseMode.HTML,
             )
             return (
