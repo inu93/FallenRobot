@@ -92,7 +92,7 @@ DARE = (
     "Tarian tiang dengan tiang imajiner",
     "Biarkan orang lain menggelitikmu dan mencoba untuk tidak tertawa",
     "Masukkan camilan ke dalam mulut Anda sekaligus sebanyak yang Anda bisa",
-    "Kirim 'aku sayang kamu' ke orang random dalam 1 group (harus lawan jenis).",
+    "Kirim 'aku sayang kamu' ke orang random dalam 1 group harus lawan jenis.",
     "Kirim selfie terjelekmu.",
     "Kirim tangkapan layar riwayat pencarian facebook Anda",
     "Kirim tangkapan layar galeri Anda.",
