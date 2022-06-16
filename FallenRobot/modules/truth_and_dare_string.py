@@ -81,7 +81,7 @@ DARE = (
     "coli",
     "subs @katakatauntukmu @katakatasadardiri @keluhkesahkehidupankita @anythinghoneyy",
     "colmek",
-    "join @mutualaninstagram2022_ID" biar jadi seleb,
+    "join @mutualaninstagram2022_ID" biar jadi seleb",
     "Cobalah untuk memasukkan seluruh kepalan tangan Anda ke dalam mulut Anda",
     "Ceritakan kepada semua orang kisah memalukan tentang dirimu sendiri",
     "Coba jilat sikumu",
