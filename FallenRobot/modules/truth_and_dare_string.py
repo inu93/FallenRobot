@@ -118,7 +118,6 @@ DARE = (
     "Pergi ke luar dan berteriak, 'Aku mengambil hidungku!' kepada orang pertama yang Anda lihat.",
     "Isi sebanyak mungkin marshmallow di mulut Anda.",
     "Makan sesendok sesawi.",
-    "Jilat siku Anda.",
     "Bertingkah seperti anjing.",
     "Selama satu jam berikutnya kenakan kap lampu di kepala Anda sebagai topi.",
     "Lepaskan sabuk Anda sendiri atau celana menggunakan siku Anda.",
@@ -130,5 +129,5 @@ DARE = (
     "Pap nenen",
     "Invite anggota keluarga anda ke @asaboopride",
     "Chat orang random anggota group bilang i love you 5000 yang 2000 buat beli siomay",
-))
+)
 
