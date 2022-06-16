@@ -121,7 +121,7 @@ DARE = (
     "Jilat siku Anda.",
     "Bertingkah seperti anjing.",
     "Selama satu jam berikutnya kenakan kap lampu di kepala Anda sebagai topi.",
-    "Lepaskan sabuk Anda sendiri (atau celana) menggunakan siku Anda.",
+    "Lepaskan sabuk Anda sendiri atau celana menggunakan siku Anda.",
     "Tag anggota group yang kamu kangenin",
     "Berjalanlah dengan kaki terikat.",
     "Typing jametzz seharian",
