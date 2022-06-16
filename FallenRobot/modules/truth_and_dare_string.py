@@ -130,5 +130,5 @@ DARE = (
     "Pap nenen",
     "Invite anggota keluarga anda ke @asaboopride",
     "Chat orang random anggota group bilang i love you 5000 yang 2000 buat beli siomay",
-)
+))
 
