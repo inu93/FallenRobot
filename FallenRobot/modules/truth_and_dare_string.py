@@ -66,7 +66,7 @@ DARE = (
     "Katakan sesuatu yang kotor kepada orang di sebelah kiri Anda Anda punya teman!",
     "Berikan pijatan kaki kepada orang di sebelah kanan Anda",
     "Masukkan 10 cairan berbeda yang tersedia ke dalam cangkir dan minumlah",
-    "*Ucapkan kata pertama yang muncul di pikiranmu",
+    "Ucapkan kata pertama yang muncul di pikiranmu",
     "Berikan lap dance kepada seseorang pilihan Anda",
     "Lepaskan empat item pakaian",
     "pap tetek",
