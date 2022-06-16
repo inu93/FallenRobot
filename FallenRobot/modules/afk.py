@@ -12,7 +12,7 @@ from telegram.error import BadRequest
 from telegram.ext import CallbackContext, Filters, MessageHandler, run_async
 
 AFK_GROUP = 7
-AFK_REPLY_GROUP = 8
+AFK_REPLY_GROUP = 10
 
 
 @run_async
@@ -66,6 +66,8 @@ def no_longer_afk(update: Update, context: CallbackContext):
                 "{} abis ngewe!",
                 "Welcome back tod! {}",
                 "dimana {}?\nDalam obrolan!",
+                "{} Pasti abis sholat",
+                "{} Pasti abis belajar",
             ]
             chosen_option = random.choice(options)
             update.effective_message.reply_text(chosen_option.format(firstname))
